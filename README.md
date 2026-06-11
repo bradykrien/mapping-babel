@@ -5,7 +5,7 @@ The Instructions file provides guidance for completing the activity.
 
 The data files contain the data with which we'll be working during this session. A brief explanation of the data files is below:
 
-`publication_by_country.csv`
+`publication_by_country.csv`  
 Two columns: country_name and pub_count. Each row represents a country or territory in Latin America and the Caribbean, with a count of how many records in the collection were published there. Country of publication is derived from the MARC 008 fixed field, which carries a coded country of publication for every record. Only countries and territories within Latin America and the Caribbean are included; records published in the United States, Spain, the United Kingdom, and other locations outside the region are excluded. Use this file to ask: where does this collection come from?
 
 `subject_by_country.csv`
@@ -17,7 +17,7 @@ Seven columns: country_name, pub_count, subject_count, ratio, interpretation, lo
 `language_distribution.csv`
 Two columns: language and count. Each row represents a language, with a count of records cataloged in that language. Language is derived from the MARC 008 fixed field positions 35–37, which carry a three-letter language code for every record. Codes have been mapped to full language names. Use this file to ask: what languages does this collection speak?
 
-publications_by_decade.csv
+`publications_by_decade.csv`
 Two columns: decade and count. Each row represents a decade from 1800 to 2020, with a count of records whose publication date falls within that decade. Publication date is derived from the MARC 008 fixed field positions 7–10. Dates coded as unknown or open-ended (e.g., currently publishing serials) are excluded. The 2020s decade is incomplete and will appear lower than preceding decades as a result. Use this file to ask: how has this collection grown over time, and are there periods of acceleration or decline?
 
 `collection_enriched_v2.csv`
