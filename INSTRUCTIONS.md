@@ -52,7 +52,7 @@ MARC country codes are not ISO country codes, and miscoding occurs. Known issues
 
 ## Data Files
 
-All files are CSV format and can be downloaded directly from this repository or loaded into Datawrapper via URL.
+All files are CSV format and can be downloaded directly from this repository or loaded into Datawrapper.
 
 | File | Description | Suggested visualization |
 |---|---|---|
@@ -119,8 +119,8 @@ There are no right answers. The goal is to notice what different visualizations 
 ## Datawrapper Quick Reference
 
 ### Loading data
+- **Download CSV**: delect the dataset that you want to use and download it to your local computer
 - **Upload CSV**: drag and drop or browse to your file
-- **From URL**: paste a direct link to a raw CSV file (e.g., a GitHub raw URL)
 
 ### Choropleth maps
 - Datawrapper matches your country name column to its internal geography — check the **Match** tab to see which countries were recognized and which weren't
