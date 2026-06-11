@@ -180,6 +180,8 @@ This workshop was developed for SALALM 71 by Brady Krien, Digital Humanities Coo
 
 Questions about this workshop or the underlying data? Contact Brady Krien at [brady.krien@wisc.edu](mailto:brady.krien@wisc.edu).
 
+**AI Statement**: The data preparation underlying this workshop was developed utilizing Anthropic's Claude (Sonnect4.6). This includes help with coding the Python pipeline for parsing MARC binary records, extracting and normalizing geographic subject headings, constructing the publication/subject ratio metric, and producing the CSV files in this repository. All pedagogical and data decisions were made by the Brady Krien.
+
 ---
 
 *Data derived from UW–Madison Libraries catalog holdings. Processed June 2026.*
