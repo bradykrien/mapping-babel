@@ -142,6 +142,8 @@ There are no right answers. The goal is to notice what different visualizations 
 
 One of the metrics in `pub_vs_subject.csv` and `collection_enriched_v2.csv` is the relationship between how many records in a collection were *published in* a given country versus how many records are *about* that country.
 
+This ratio was created by comparing the number of publications that have a place listed as a topic with the number of publications that were published in that place (publications about place/publications from place). This number has a slightly extreme scale (some of the places included in the dataset produce very few publications) so this ratio is also included in a normalized version using a logarithmic scale. 
+
 A high ratio means a country is written about more than the collection collects from it—the collection holds knowledge *about* that place, produced largely elsewhere. A low ratio means the collection primarily holds material produced there, with relatively less subject focus.
 
 Neither is inherently good or bad. Some countries have thin publishing infrastructure; others are subjects of substantial international scholarship. The ratio is meaningful only in context—but it can prompt useful questions:
