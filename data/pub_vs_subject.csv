@@ -1,0 +1,44 @@
+country_name,pub_count,subject_count,ratio,interpretation,log_ratio,ratio_capped
+Mexico,51364,43196,0.84,Balanced,-0.17318595827398298,0.84
+Brazil,54796,38648,0.71,Publishing-heavy,-0.34911454645238926,0.71
+Colombia,32696,20669,0.63,Publishing-heavy,-0.4585999568816064,0.63
+Argentina,39183,20476,0.52,Publishing-heavy,-0.6489661951433892,0.52
+Peru,19756,16746,0.85,Balanced,-0.16528872117892668,0.85
+Chile,22016,13300,0.6,Publishing-heavy,-0.5039756618598759,0.6
+Cuba,10730,11936,1.11,Balanced,0.106506071167912,1.11
+Venezuela,12963,9197,0.71,Publishing-heavy,-0.34319021616156853,0.71
+Bolivia,7244,7366,1.02,Balanced,0.01669899192803115,1.02
+Ecuador,8935,6393,0.72,Publishing-heavy,-0.33472801112925055,0.72
+Puerto Rico,5288,5579,1.05,Balanced,0.05355958430937591,1.05
+Uruguay,7063,4194,0.59,Publishing-heavy,-0.5211181233824895,0.59
+Guatemala,2613,3637,1.39,Balanced,0.3305524648939002,1.39
+Haiti,0,3299,3299.0,No local publishing,8.101677747454572,10.0
+Dominican Republic,3084,2887,0.94,Balanced,-0.06598743632677184,0.94
+Nicaragua,1293,2724,2.11,Heavily written about,0.744730232036499,2.11
+Panama,1259,2564,2.03,Heavily written about,0.710846757659346,2.03
+Paraguay,2859,2552,0.89,Balanced,-0.11355248657241468,0.89
+Costa Rica,2758,2042,0.74,Publishing-heavy,-0.30044897939966386,0.74
+El Salvador,1290,2035,1.58,Balanced,0.4555699868237708,1.58
+Jamaica,848,1846,2.17,Heavily written about,0.7772587938878921,2.17
+Honduras,1247,1641,1.31,Balanced,0.2743727410829999,1.31
+Trinidad and Tobago,1519,1556,1.02,Balanced,0.02405055799367606,1.02
+Guyana,187,857,4.56,Heavily written about,1.5181621366580131,4.56
+Barbados,214,537,2.5,Heavily written about,0.917220532034122,2.5
+Belize,73,485,6.55,Heavily written about,1.8821435306963235,6.55
+Suriname,49,398,7.96,Heavily written about,2.0769384114617178,7.96
+Bahamas,0,391,391.0,No local publishing,5.971261839790462,10.0
+United States Virgin Islands,34,308,8.8,Heavily written about,2.1779932154083324,8.8
+Martinique,95,287,2.99,Heavily written about,1.09861228866811,2.99
+Grenada,0,238,238.0,No local publishing,5.476463551931511,10.0
+French Guiana,112,208,1.84,Balanced,0.6149464332524701,1.84
+Guadeloupe,120,195,1.61,Balanced,0.4823241136337755,1.61
+Dominica,0,165,165.0,No local publishing,5.111987788356544,10.0
+Antigua and Barbuda,0,163,163.0,No local publishing,5.099866427824199,10.0
+Saint Lucia,136,156,1.14,Balanced,0.13626487952018262,1.14
+Saint Kitts and Nevis,0,100,100.0,No local publishing,4.61512051684126,10.0
+Saint Vincent and the Grenadines,0,95,95.0,No local publishing,4.564348191467836,10.0
+Cayman Islands,8,69,7.67,Heavily written about,2.05127066471314,7.67
+Curaçao,0,49,49.0,No local publishing,3.912023005428146,10.0
+British Virgin Islands,1,49,24.5,Heavily written about,3.2188758248682006,10.0
+Aruba,0,41,41.0,No local publishing,3.7376696182833684,10.0
+Turks and Caicos Islands,0,28,28.0,No local publishing,3.367295829986474,10.0
